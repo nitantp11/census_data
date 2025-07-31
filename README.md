@@ -52,7 +52,7 @@ This project investigates the factors associated with whether a person earns mor
 
 ## Results
 
-| Metric           | Logistic Regression | Random Forest |
+|Metric            |Logistic Regression  |Random Forest |
 |------------------|---------------------|----------------|
 | Accuracy         | 94%                 | 93%            |
 | F1 Score (>50K)  | 0.55 (tuned)        | 0.54 (tuned)   |
